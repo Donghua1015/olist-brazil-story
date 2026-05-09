@@ -2,7 +2,7 @@
 
 A scroll-driven data story built with Svelte and D3 for DATA 31500 Assignment 3. The story walks through how delivery time and review scores vary across Brazilian states in the Olist e-commerce dataset, then asks the reader to play with a "what if I only ship to fast states" strategy.
 
-**Live demo**: TODO_PLACEHOLDER (replace with Netlify URL after deployment)
+**Live demo**: https://olistbrazilstoryvis.netlify.app/
 
 ## Running locally
 
